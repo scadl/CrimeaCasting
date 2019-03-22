@@ -1,0 +1,2 @@
+# CrimeaCasting
+This is one of my old projects, from the time I only started to learn some JS tricks, and use of jQuerry libruary. This particular site is experimental webapp, written for actor recruitment agency. The main challange here was to squize this site into very old and slow server, so I had to write almost everything with raw php, js, html, css. This is first time I tried to use mcrypt, and used two sqlite3 dtatbases. 
